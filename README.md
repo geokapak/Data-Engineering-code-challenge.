@@ -1,6 +1,3 @@
-# Data-Engineering-code-challenge.
-Code challenge to assess data engineering skills, involving ETL tasks, data cleaning, and schema design with Python and SQL for CRM data analysis.
-
 # Data Engineering code challenge
 
 This code challenge is designed to assess a candidate's ability to work with data and programming languages, in this case Python and SQL. The challenge involves Extract, Transform and Load (ETL) tasks, as well as data cleaning and modeling.
